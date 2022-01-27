@@ -99,8 +99,8 @@ export default function PaginaInicial() {
                             value={username}
                             onChange={function (event) {
                                 // Troca o valor da variável
-                                const value = event.target.value
-                                setUsername(value);
+                                const name = event.target.value
+                                name.length > 2 ? setUsername(name) : setUsername();
                             }}
                             fullWidth
                             textFieldColors={{
