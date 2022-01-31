@@ -12,6 +12,10 @@
 
 <br>
 
+<p align="center">
+  <img alt="aluracord.matrix" src="assets/presentation-full.png" width="100%">
+</p>
+
 ## ✨ Tecnologias
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
@@ -36,7 +40,9 @@ Você pode visualizar o layout do projeto através [desse link](https://www.figm
 
 * 🧑‍💻 **Conectando-se ao servidor criado**
     * Para acessar ao projeto em execução no ambiente da Vercel, acesse um dos seguintes links:
+
         [Link 1](https://aluracord-matrix-sable.vercel.app) / [Link 2](https://aluracord-matrix-git-main-andrenavarro.vercel.app) / [Link 3](https://aluracord-matrix-andrenavarro.vercel.app)
+
     * A partir deste acesso, conecte-se com seu login do GitHub
     * Feito isso, a página de chat estará disponível para envio e recebimento de mensagens em tempo real.
 
@@ -57,6 +63,8 @@ Você pode visualizar o layout do projeto através [desse link](https://www.figm
     * No menu lateral, clique em **Database** e em **Replication**
     * Seguindo a tabela de nomes das tabelas criadas, à direita é possível visualizar um botão de ativação. Ative-o para que haja a replicação em tempo real.
     
+    <br>
+    
     > Caso também queira executar o projeto no ambiente da Vercel, seguir os seguintes passos:
 
     * Primeiramente, é necessário que o projeto esteja em seus repositórios do Github
@@ -66,4 +74,4 @@ Você pode visualizar o layout do projeto através [desse link](https://www.figm
 
 ## 📝 Licença
 
-O Projeto Aluracord - Matrix foi desenvolvido durante a semana de Imersão React da Alura.
+O Projeto Aluracord - Matrix foi desenvolvido durante a semana de **Imersão React** da **Alura**.
