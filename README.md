@@ -13,7 +13,7 @@
 <br>
 
 <p align="center">
-  <img alt="aluracord.matrix" src="assets/presentation-full.png" width="100%">
+  <img alt="aluracord.matrix" src="./assets/presentation-full.png" width="100%">
 </p>
 
 ## ✨ Tecnologias
